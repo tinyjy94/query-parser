@@ -10,22 +10,22 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../Project/Component/lib/CUP" />
+          <root url="file://$MODULE_DIR$/lib/CUP" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../Project/Component/lib/CUP" />
+          <root url="file://$MODULE_DIR$/lib/CUP" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../Project/Component/lib/JLEX" />
+          <root url="file://$MODULE_DIR$/lib/JLEX" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../Project/Component/lib" />
+          <root url="file://$MODULE_DIR$/lib" />
         </SOURCES>
       </library>
     </orderEntry>
