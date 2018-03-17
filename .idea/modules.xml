@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CS3223_Project.iml" filepath="$PROJECT_DIR$/CS3223_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query-parser.iml" filepath="$PROJECT_DIR$/query-parser.iml" />
     </modules>
   </component>
 </project>
